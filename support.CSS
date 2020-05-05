@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+    text:lightseagreen;
+    font-size:43px;
+
+}
+
+h1{
+    color:lightseagreen;
+}
+
+h2,h3{
+    color:lightskyblue;
+
+}
+
+p{
+    color:lightslategray;
+    font-size:35px;
+}
+
+.btn{
+    width:250px;
+    height:50px;
+    background-color:lightseagreen;
+    font-size:15px;
+    color:white;
+    border-radius:15px;
+}
+
+.btn2{
+    width:250px;
+    height:50px;
+    background-color:orange;
+    font-size:15px;
+    color:white;
+    border-radius:15px;
+}
+
+
